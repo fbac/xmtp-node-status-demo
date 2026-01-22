@@ -1,19 +1,19 @@
 {
-  "name": "XMTP Node #100",
-  "description": "An XMTP Network Node operated by Example Labs",
-  "image": "https://example.com/node-avatar.png",
-  "external_url": "https://node-operator.example.com",
+  "name": "R'lyeh Labs",
+  "description": "In his house at R'lyeh, dead Cthulhu waits dreaming.",
+  "image": "https://avatarfiles.alphacoders.com/374/thumb-1920-374729.png",
+  "external_url": "https://en.wikipedia.org/wiki/R%27lyeh",
   "attributes": [
-    { "trait_type": "Operator", "value": "Example Labs" },
-    { "trait_type": "Region", "value": "US-East" }
+    { "trait_type": "Operator", "value": "R'lyeh Labs" },
+    { "trait_type": "Region", "value": "R'lyeh" }
   ],
   "properties": {
-    "operator_name": "Example Labs",
-    "operator_url": "https://example.com",
-    "avatar_uri": "https://example.com/avatar.png",
+    "operator_name": "R'lyeh Labs",
+    "operator_url": "https://en.wikipedia.org/wiki/R%27lyeh",
+    "avatar_uri": "https://avatarfiles.alphacoders.com/374/thumb-1920-374729.png",
     "social": {
-      "twitter": "@example",
-      "discord": "example-discord"
+      "twitter": "@rlyehlabs",
+      "discord": "rlyehlabs"
     }
   }
 }

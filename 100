@@ -1,19 +1,19 @@
 {
-  "name": "XMTP Node #100",
-  "description": "An XMTP Network Node operated by Example Labs",
-  "image": "https://example.com/node-avatar.png",
-  "external_url": "https://node-operator.example.com",
+  "name": "XMTP Labs",
+  "description": "XMTP Network Node operated by XMTP Labs",
+  "image": "https://pbs.twimg.com/profile_images/1998860165488181248/fnITTLdF_400x400.jpg",
+  "external_url": "https://xmtp.org",
   "attributes": [
-    { "trait_type": "Operator", "value": "Example Labs" },
-    { "trait_type": "Region", "value": "US-East" }
+    { "trait_type": "Operator", "value": "XMTP Labs" },
+    { "trait_type": "Region", "value": "Ohio" }
   ],
   "properties": {
-    "operator_name": "Example Labs",
-    "operator_url": "https://example.com",
-    "avatar_uri": "https://example.com/avatar.png",
+    "operator_name": "XMTP Labs",
+    "operator_url": "https://xmtp.org",
+    "avatar_uri": "https://xmtp.org/avatar.png",
     "social": {
-      "twitter": "@example",
-      "discord": "example-discord"
+      "twitter": "@xmtp_",
+      "discord": "xmtp"
     }
   }
 }
