@@ -1,0 +1,19 @@
+{
+  "name": "XMTP Node #100",
+  "description": "An XMTP Network Node operated by Example Labs",
+  "image": "https://example.com/node-avatar.png",
+  "external_url": "https://node-operator.example.com",
+  "attributes": [
+    { "trait_type": "Operator", "value": "Example Labs" },
+    { "trait_type": "Region", "value": "US-East" }
+  ],
+  "properties": {
+    "operator_name": "Example Labs",
+    "operator_url": "https://example.com",
+    "avatar_uri": "https://example.com/avatar.png",
+    "social": {
+      "twitter": "@example",
+      "discord": "example-discord"
+    }
+  }
+}
