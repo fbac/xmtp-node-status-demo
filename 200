@@ -1,20 +1,12 @@
 {
-  "name": "R'lyeh Labs",
   "description": "In his house at R'lyeh, dead Cthulhu waits dreaming.",
   "image": "https://avatarfiles.alphacoders.com/374/thumb-1920-374729.png",
   "external_url": "https://en.wikipedia.org/wiki/R%27lyeh",
-  "attributes": [
-    { "trait_type": "Operator", "value": "R'lyeh Labs" },
-    { "trait_type": "Region", "value": "R'lyeh" }
-  ],
-  "properties": {
-    "operator_name": "R'lyeh Labs",
-    "operator_url": "https://en.wikipedia.org/wiki/R%27lyeh",
-    "avatar_uri": "https://avatarfiles.alphacoders.com/374/thumb-1920-374729.png",
-    "social": {
-      "twitter": "@rlyehlabs",
-      "discord": "rlyehlabs",
-      "convos": "https://popup.convos.org/v2?i=CnUKPwGXctIO1dXo1279NYLhXiRqn_k8vpsN3o04rC4KZiBl40Lqn3rtUPmBEwaKHbrDCRXxQbd6UUCu4iRjGraXgRIgs9iF4JC64txCuFQMyZlp_tcVeEqU_LgELeY9_4u1J5waCkxYRVAzWVV4QUQiACoAMgASQUbJd1fOcxPuJbDVDPOOIZSyLtiK6wiRLU4vKT0Lt0zxDQpJhKG2bVMty6D7OAN-HYSIqSgzqdtj8-C4I1m7VokB"
-    }
+  "operator_name": "R'lyeh Labs",
+  "region": "R'lyeh",
+  "social": {
+    "twitter": "@rlyehlabs",
+    "discord": "rlyehlabs",
+    "convos": "https://popup.convos.org/v2?i=CnUKPwGXctIO1dXo1279NYLhXiRqn_k8vpsN3o04rC4KZiBl40Lqn3rtUPmBEwaKHbrDCRXxQbd6UUCu4iRjGraXgRIgs9iF4JC64txCuFQMyZlp_tcVeEqU_LgELeY9_4u1J5waCkxYRVAzWVV4QUQiACoAMgASQUbJd1fOcxPuJbDVDPOOIZSyLtiK6wiRLU4vKT0Lt0zxDQpJhKG2bVMty6D7OAN-HYSIqSgzqdtj8-C4I1m7VokB"
   }
 }
